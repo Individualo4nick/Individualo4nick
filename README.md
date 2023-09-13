@@ -26,11 +26,11 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=Individualo4nick&style=flat-square&color=blue" alt="" align="center"/>
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://komarev.com/ghpvc/?username=Individualo4nick&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 <div>
   
@@ -49,9 +49,5 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My Stats :
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Individualo4nick)](https://git.io/streak-stats)
-</div>
-<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=individualo4nick)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=individualo4nick&layout=compact&theme=vision-friendly-dark)]
-</div>
