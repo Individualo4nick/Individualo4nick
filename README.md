@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <a href="https://vk.com/individualo4nick">
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Individualo4nick&style=flat-square&color=blue" alt=""/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Individualo4nick&style=flat-square&color=blue" alt="" align="center"/>
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
