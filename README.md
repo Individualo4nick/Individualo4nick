@@ -26,12 +26,12 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
   </div>
-</div>
-<img src="https://komarev.com/ghpvc/?username=Individualo4nick&style=flat-square&color=blue" alt="" align="center"/>
-<h1 align="center">
+  <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+<img src="https://komarev.com/ghpvc/?username=Individualo4nick&style=flat-square&color=blue" alt="" align="center"/>
 <div>
   
   ### :hammer_and_wrench: Languages and Tools :
