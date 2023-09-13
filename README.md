@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 <div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=individualo4nick)]
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Individualo4nick)](https://git.io/streak-stats)
 </div>
 <div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=individualo4nick&layout=compact&theme=vision-friendly-dark)]
