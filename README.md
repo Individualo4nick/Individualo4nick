@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=individualo4nick)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=individualo4nick)](https://git.io/streak-stats)<br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=individualo4nick)](https://github.com/anuraghazra/github-readme-stats)
